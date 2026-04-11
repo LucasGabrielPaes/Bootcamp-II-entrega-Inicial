@@ -1,30 +1,32 @@
-#  Simulador de Precificação Social
+##  1. Visão Geral e Problema Real
+Muitos microempreendedores, artesãos e freelancers enfrentam dificuldades ao definir o preço de venda dos seus produtos ou serviços. O erro mais comum é ignorar o custo da própria mão de obra, resultando em negócios que não dão lucro.
 
-> **Status do Projeto:** v1.0.0 (Versionamento Semântico)
-> **Objetivo:** Apoiar microempreendedores na precificação justa de seus produtos.
+Este projeto resolve essa "dor" através de um **Simulador de Precificação**. A aplicação automatiza o cálculo com base em custos de materiais, horas de trabalho e margem de lucro, garantindo uma visão financeira clara para o empreendedor.
 
 ---
 
-##  O Problema Real
-Muitos profissionais autônomos e artesãos calculam seus preços de venda "por cabeça" ou baseando-se apenas na concorrência. Isso gera prejuízos, pois esquecem de contabilizar o custo da sua própria hora de trabalho e a margem de lucro necessária para o crescimento do negócio. 
+##  2. Funcionalidades Principais
+* **Cálculo de Custo de Produção:** Soma automática de materiais e valor da hora de trabalho.
+* **Simulação de Lucro:** Aplicação de margem percentual sobre o custo total.
+* **Tratamento de Erros:** Sistema que impede a entrada de valores negativos ou inválidos.
+* **Interface CLI:** Simples, rápida e executável em qualquer terminal.
 
-Esta ferramenta resolve essa dor, automatizando o cálculo e garantindo que o empreendedor seja pago pelo seu tempo e cubra todos os seus custos.
+---
 
-##  Funcionalidades
-* Cálculo automático de Preço Sugerido.
-* Inclusão de custos de materiais e mão de obra (valor/hora).
-* Simulação de margem de lucro percentual.
-* Interface intuitiva via Linha de Comando (CLI).
-* Validação de entradas (impede valores negativos).
+##  3. Tecnologias Utilizadas
+* **Linguagem:** [Python 3.12+]
+* **Testes:** [Pytest] (Garante a fiabilidade dos cálculos)
+* **Linting:** [Ruff] (Garante a qualidade e padronização do código)
+* **CI/CD:** [GitHub Actions] (Pipeline de integração contínua)
 
-##  Tecnologias e Ferramentas
-* **Linguagem:** Python 3.12+
-* **Testes Automatizados:** Pytest (Garantia de confiabilidade)
-* **Linting:** Ruff (Análise estática de código)
-* **CI (Integração Contínua):** GitHub Actions (Validação automática em cada Push)
+---
 
-##  Como Instalar e Rodar
+##  4. Como Instalar e Executar
 
-1. **Clonar o repositório:**
+### Pré-requisitos
+* Ter o Python instalado (v3.10 ou superior).
+
+### Instalação
+1. Clone o repositório:
    ```bash
-   git clone [https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git](https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git)
+   git clone [LINK_DO_TEU_REPOSITORIO]
