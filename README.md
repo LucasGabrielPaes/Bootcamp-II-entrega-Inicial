@@ -35,4 +35,7 @@ Este projeto resolve essa "dor" através de um **Simulador de Precificação**. 
 1. Copie e Cole no Terminal:
    ```bash
    python main.py
+![Demonstração do Simulador](<img width="663" height="246" alt="image" src="https://github.com/user-attachments/assets/f97e4889-fe0d-4f69-9360-9e8b68205883" />
+)
+
 
