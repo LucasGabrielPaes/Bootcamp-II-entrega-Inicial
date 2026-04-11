@@ -44,7 +44,7 @@ Este projeto resolve essa "dor" através de uma **Calculadora de Precificação*
 ### Estrutura 
 <img width="311" height="344" alt="estrutura" src="https://github.com/user-attachments/assets/fae2984f-f863-4efc-bbac-f7cdddd3d132" />
 
-
-
-
-
+### Instalação de Dependências
+Caso mude de Computador, instale as bibliotecas necessárias com:
+   ```bash
+pip install -r requirements.txt
