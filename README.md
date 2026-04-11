@@ -38,6 +38,13 @@ Este projeto resolve essa "dor" através de um **Simulador de Precificação**. 
 ### Demonstração do Simulador
 <img width="663" height="246" alt="testecodigo" src="https://github.com/user-attachments/assets/30c5a875-cef4-4540-86d8-10b5a914c88c" />
 
+### Demonstração do Teste
+<img width="724" height="279" alt="teste" src="https://github.com/user-attachments/assets/2ed88110-0e50-4b5c-813b-47fb541758e4" />
+
+### Estrutura 
+<img width="311" height="344" alt="estrutura" src="https://github.com/user-attachments/assets/fae2984f-f863-4efc-bbac-f7cdddd3d132" />
+
+
 
 
 
