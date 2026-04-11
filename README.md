@@ -31,5 +31,8 @@ Este projeto resolve essa "dor" através de um **Simulador de Precificação**. 
    ```bash
    https://github.com/LucasGabrielPaes/Bootcamp-II-entrega-Inicial.git
 
+### Para iniciar o simulador, corra o comando:
+1. Copie e Cole no Terminal:
    ```bash
-   cd [BootCamp-Python]
+   python main.py
+
