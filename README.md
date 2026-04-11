@@ -29,4 +29,4 @@ Este projeto resolve essa "dor" através de um **Simulador de Precificação**. 
 ### Instalação
 1. Clone o repositório:
    ```bash
-   git clone [LINK_DO_TEU_REPOSITORIO]
+   git clone [https://github.com/LucasGabrielPaes/Bootcamp-II-entrega-Inicial.git]
