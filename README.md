@@ -30,3 +30,6 @@ Este projeto resolve essa "dor" através de um **Simulador de Precificação**. 
 1. Clone o repositório:
    ```bash
    https://github.com/LucasGabrielPaes/Bootcamp-II-entrega-Inicial.git
+
+   ```bash
+   cd [BootCamp-Python]
