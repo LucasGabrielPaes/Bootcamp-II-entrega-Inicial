@@ -1,4 +1,4 @@
-import pytest
+
 from services.currency_api import obter_cotacao_dolar
 
 def test_conexao_api_cotacao():
