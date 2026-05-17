@@ -4,7 +4,7 @@ from services.currency_api import obter_cotacao_dolar
 
 def menu():
     app = Precificador()
-    print(f"--- Simulador de Precificação v{app.versao} ---")
+    print(f"--- Calculadora de Precificação v{app.versao} ---")
     print("Ajude seu pequeno negócio a prosperar!\n")
 
     try:

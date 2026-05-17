@@ -1,13 +1,13 @@
 ##  1. Visão Geral e Problema Real
 Muitos microempreendedores, artesãos e freelancers enfrentam dificuldades ao definir o preço de venda dos seus produtos ou serviços. O erro mais comum é ignorar o custo da própria mão de obra, resultando em negócios que não dão lucro.
 
-Este projeto resolve essa "dor" através de um **Simulador de Precificação**. A aplicação automatiza o cálculo com base em custos de materiais, horas de trabalho e margem de lucro, garantindo uma visão financeira clara para o empreendedor.
+Este projeto resolve essa "dor" através de uma **Calculadora de Precificação**. A aplicação automatiza o cálculo com base em custos de materiais, horas de trabalho e margem de lucro, garantindo uma visão financeira clara para o empreendedor.
 
 ---
 
 ##  2. Funcionalidades Principais
 * **Cálculo de Custo de Produção:** Soma automática de materiais e valor da hora de trabalho.
-* **Simulação de Lucro:** Aplicação de margem percentual sobre o custo total.
+* **Cálculo de Lucro:** Aplicação de margem percentual sobre o custo total.
 * **Tratamento de Erros:** Sistema que impede a entrada de valores negativos ou inválidos.
 * **Interface CLI:** Simples, rápida e executável em qualquer terminal.
 
@@ -31,7 +31,7 @@ Este projeto resolve essa "dor" através de um **Simulador de Precificação**. 
    ```bash
    https://github.com/LucasGabrielPaes/Bootcamp-II-entrega-Inicial.git
 
-### Para iniciar o simulador, corra o comando:
+### Para iniciar a Calculadora, use o comando:
 1. Copie e Cole no Terminal:
    ```bash
    python main.py
@@ -44,7 +44,7 @@ Este projeto resolve essa "dor" através de um **Simulador de Precificação**. 
 ### Estrutura 
 <img width="311" height="344" alt="estrutura" src="https://github.com/user-attachments/assets/fae2984f-f863-4efc-bbac-f7cdddd3d132" />
 
-
-
-
-
+### Instalação de Dependências
+Caso mude de Computador, instale as bibliotecas necessárias com:
+   ```bash
+pip install -r requirements.txt
