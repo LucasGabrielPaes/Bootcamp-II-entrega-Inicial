@@ -38,13 +38,13 @@ Este projeto resolve essa demanda através de uma **Calculadora de Precificaçã
    ```bash
    python main.py
 ### Demonstração do Simulador
-<img width="663" height="246" alt="testecodigo" src="https://github.com/user-attachments/assets/30c5a875-cef4-4540-86d8-10b5a914c88c" />
+<img src="https://github.com/LucasGabrielPaes/Bootcamp-II-entrega-Inicial/blob/main/ScreenShot/teste2.png?raw=true" alt="Texto Alternativo">
 
 ### Demonstração do Teste
-<img width="724" height="279" alt="teste" src="https://github.com/user-attachments/assets/2ed88110-0e50-4b5c-813b-47fb541758e4" />
+<img src="https://github.com/LucasGabrielPaes/Bootcamp-II-entrega-Inicial/blob/main/ScreenShot/teste%20codigo.png?raw=true" alt="Texto Alternativo">
 
 ### Estrutura 
-<img width="311" height="344" alt="estrutura" src="https://github.com/user-attachments/assets/fae2984f-f863-4efc-bbac-f7cdddd3d132" />
+<img src="https://github.com/LucasGabrielPaes/Bootcamp-II-entrega-Inicial/blob/main/ScreenShot/estrutura2.png?raw=true" alt="Texto Alternativo">
 
 ### Instalação de Dependências
 Caso mude de Computador, instale as bibliotecas necessárias com:
